@@ -115,7 +115,7 @@ hashbrown = { version = "0.14.0", features = [
 criterion = { version = "0.5", features = ["async_futures"] }
 tonic = { package = "madsim-tonic", version = "0.4.0" }
 tonic-build = { package = "madsim-tonic-build", version = "0.4.2" }
-prost = { version = "0.12" }
+prost = { version = "0.14" }
 icelake = { git = "https://github.com/icelake-io/icelake", rev = "5cdcdffd24f4624a0a43f92c5f368988169a799b", features = [
   "prometheus",
 ] }
