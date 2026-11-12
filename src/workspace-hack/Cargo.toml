@@ -95,7 +95,7 @@ proc-macro2 = { version = "1", features = ["span-locations"] }
 prometheus = { version = "0.13", features = ["process"] }
 prost-5ef9efb8ec2df382 = { package = "prost", version = "0.12", features = ["no-recursion-limit"] }
 prost-a6292c17cd707f01 = { package = "prost", version = "0.11" }
-prost-types = { version = "0.12" }
+prost-types = { version = "0.14" }
 quote = { version = "1" }
 rand = { version = "0.8", features = ["small_rng"] }
 rand_chacha = { version = "0.3" }
@@ -174,7 +174,7 @@ phf_shared = { version = "0.11", features = ["uncased"] }
 proc-macro2 = { version = "1", features = ["span-locations"] }
 prost-5ef9efb8ec2df382 = { package = "prost", version = "0.12", features = ["no-recursion-limit"] }
 prost-a6292c17cd707f01 = { package = "prost", version = "0.11" }
-prost-types = { version = "0.12" }
+prost-types = { version = "0.14" }
 quote = { version = "1" }
 rand = { version = "0.8", features = ["small_rng"] }
 rand_chacha = { version = "0.3" }
